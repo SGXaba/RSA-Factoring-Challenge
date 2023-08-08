@@ -45,5 +45,5 @@ else
                 result=$(factor "$i")
                 check_factor $result
 
-	done < "$1"
+        done < "$1"
 fi
